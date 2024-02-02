@@ -76,13 +76,14 @@ function removeItem(item){
    }else {
     return null;
    }
+
 }
 
 removeItem('apple');
 
 console.log(basket);
 
-
+listItems();
 
 
 
