@@ -54,7 +54,6 @@ console.log( addItem('grape'));
 console.log(`basket is now: ${basket}`);
 
 
-
 function isFull(){
     if (basket.length < maxItems){
         return false;
